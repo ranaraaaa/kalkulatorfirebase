@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="kurang" type="id" />
+    <item name="bagi" type="id" />
+    <item name="kali" type="id" />
+    <item name="hasil" type="id" />
+    <item name="tambah" type="id" />
+    <item name="opsi" type="id" />
+    <item name="btn_hitung" type="id" />
+    <item name="dataList" type="id" />
+</resources>

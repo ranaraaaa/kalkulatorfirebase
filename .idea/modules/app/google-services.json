@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "937123805595",
+    "project_id": "kalkulator-jelek",
+    "storage_bucket": "kalkulator-jelek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937123805595:android:d31230004c5016a152493e",
+        "android_client_info": {
+          "package_name": "com.example.kalkulatorjelek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937123805595-a8negqk3mhae36jaig4rqn6dkjos9se2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalkulatorjelek",
+            "certificate_hash": "217c9fad5b0a86beb33d5c0c1e95f64507e5ea34"
+          }
+        },
+        {
+          "client_id": "937123805595-vch6vorkg1c7hbofo5274n0mfb7n4b60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnabOq0Aet10TkrMwDiJveEJh-EG_v1sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937123805595-vch6vorkg1c7hbofo5274n0mfb7n4b60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
